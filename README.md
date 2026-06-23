@@ -3,6 +3,14 @@ AI-Driven Dynamic Resource Allocation and node failure predictions in Cloud Envi
 
 This repository contains reproducible implementations of three research papers focused on intelligent cloud resource management and optimization using machine learning methods. The projects include detailed simulations, algorithm implementations, and interactive web interfaces where applicable.
 
+## Project Overview (Quick Answer)
+
+Cloud-Efficiency-Agent explores how AI can make cloud systems more efficient and reliable.  
+In short, this project includes:
+- **Node failure prediction** to identify likely failures in distributed/cloud nodes.
+- **Dynamic resource allocation** to optimize CPU/memory usage under changing workloads.
+- **Research-backed prototypes** implemented as notebooks and lightweight Flask web apps for demos.
+
 ## Implementations
 
 1. **Node Failure Analysis and Resilience**  
