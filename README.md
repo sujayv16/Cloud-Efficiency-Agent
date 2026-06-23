@@ -3,6 +3,15 @@ AI-Driven Dynamic Resource Allocation and node failure predictions in Cloud Envi
 
 This repository contains reproducible implementations of three research papers focused on intelligent cloud resource management and optimization using machine learning methods. The projects include detailed simulations, algorithm implementations, and interactive web interfaces where applicable.
 
+## Project at a glance
+
+This project demonstrates how ML can improve cloud efficiency in two main areas:
+
+- **Dynamic resource allocation**: predicts changing workload demand and adjusts CPU allocation over time.
+- **Node failure prediction**: estimates whether a node is healthy or likely to fail using temporal + spatial signals.
+
+It includes Jupyter notebooks for experiments and Flask web apps for interactive demos.
+
 ## Implementations
 
 1. **Node Failure Analysis and Resilience**  
